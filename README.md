@@ -48,6 +48,8 @@ Example, customer who
 ![image](https://user-images.githubusercontent.com/66784537/183080822-b1723076-62dc-4aab-88a5-b3a52929a810.png)
 
 #### Tableau Dashboard
+Link - https://public.tableau.com/app/profile/deepak6965/viz/RFMAnalysis_16603132112030/Dashboard1?publish=yes
+
 ![RFM Dashboard](https://user-images.githubusercontent.com/66784537/184370895-aaad50e4-d0ad-4bb6-b33f-df52c35096ce.png)
 
 #### Limitations
