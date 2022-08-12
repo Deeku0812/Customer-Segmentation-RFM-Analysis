@@ -47,7 +47,8 @@ Example, customer who
 
 ![image](https://user-images.githubusercontent.com/66784537/183080822-b1723076-62dc-4aab-88a5-b3a52929a810.png)
 
-
+#### Tableau Dashboard
+![RFM Dashboard](https://user-images.githubusercontent.com/66784537/184370895-aaad50e4-d0ad-4bb6-b33f-df52c35096ce.png)
 
 #### Limitations
 •	RFM modelling can provide valuable insights about customers. But it does not take into account many other factors about the customer
